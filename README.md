@@ -29,12 +29,12 @@ Note - THIS DATA OF THIS DASHBOARD IS STRONGLY DEPENDENT ON THE DATA SOURCES PRO
 * Data is collected by the file data.py by making requests to some APIs and it is pre-processed too
 <br>
 <br>
-### DATA VISUALIZATION & DASHBOARD CREATION -
+## DATA VISUALIZATION & DASHBOARD CREATION -
 <br>
 * Data visualization is done using plotly library in app.py file
 <br>
 <br>
-### DEPLOYMENT -
+## DEPLOYMENT -
 <br>
 <br>
 * The link for dashboard is - https://covid-global-tracker-global.herokuapp.com/
