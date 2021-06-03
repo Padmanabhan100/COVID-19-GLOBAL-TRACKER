@@ -29,7 +29,7 @@ Note - THIS DATA OF THIS DASHBOARD IS STRONGLY DEPENDENT ON THE DATA SOURCES PRO
 * Data is collected by the file data.py by making requests to some APIs and it is pre-processed too
 <br>
 <br>
-##DATA VISUALIZATION & DASHBOARD CREATION -
+<b>DATA VISUALIZATION & DASHBOARD CREATION -</b>
 <br>
 * Data visualization is done using plotly library in app.py file
 <br>
