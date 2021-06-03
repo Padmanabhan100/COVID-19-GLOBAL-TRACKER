@@ -7,9 +7,13 @@ This Coivd-19 Tracker app is purely made from Dash using python,which is dedicat
 ## Features - 
 <br>
 * Shows Global Confirmed Cases,Global Active Cases,Global Deaths,Global Recovered figures
+<br>
 * Shows the Total Recovery,Total Deaths,Total Confirmed Covid Cases of the top 10 countries
+<br>
 * Shows the Total Confirmed Cases,Total Active Cases,Total Deaths,Total Recovered,Cases Fatality of States of the countries which can  be selected via a dropdown
+<br>
 * Shows Total Vaccinations Available,Number Of People Vaccinated,Number Of People Fully Vaccinated Of the countries which can be selected via a dropdown
+<br>
 
 Note - THIS DATA OF THIS DASHBOARD IS STRONGLY DEPENDENT ON THE DATA SOURCES PROVIDED BY THE API.
 
