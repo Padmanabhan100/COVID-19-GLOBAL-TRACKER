@@ -2,7 +2,7 @@
 
 ### Introduction - 
 <br>
-This Coivd-19 Tracker app is purely made from Dash using python,which is dedicated for mostly making Web-Based Dashboards.
+This Covid-19 Tracker app is purely made from Dash using python,which is dedicated for mostly making Web-Based Dashboards.
 
 ## Features - 
 <br>
